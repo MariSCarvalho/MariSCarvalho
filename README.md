@@ -1,8 +1,4 @@
-### Hi there 👋
-
-
-Here are some ideas to get you started:
-
+### Hi there, I'm Mariana! 👋
 
 - 🌱 I’m currently learning Cloud
 - 👯 I’m looking to collaborate on open source projects
